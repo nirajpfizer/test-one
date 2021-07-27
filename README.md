@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.com/pfizer/pfizer_key.svg?token=RvxFXdnueFcttzswhjmr&branch=7.x-1.x)](https://travis-ci.com/pfizer/pfizer_key)
+[![Build Status](https://github.com/pfizer/test-one/actions/workflows/testing.yml/badge.svg)](https://github.com/pfizer/test-one/actions)
 
 # test one
